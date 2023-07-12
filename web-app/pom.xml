@@ -10,7 +10,7 @@
     </parent>
 
 
-    <artifactId>intellijArtifact</artifactId>
+    <artifactId>web-app</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -18,6 +18,20 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <packaging>jar</packaging>
+    <dependencies>
+
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>jpa-entities</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>web-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 
 </project>

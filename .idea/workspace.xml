@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e51ff080-ee3b-4662-9ba0-e8b41949c277" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/web-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-app/src/main/java/org/raheed/controllers/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijArtifact/src/test/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-api/src/main/resources/jaxb.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellijArtifact/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intellijArtifact/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpa-entities/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpa-entities/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-api/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +22,42 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="web-app" />
+                    <option name="lastUsedInstant" value="1689190635" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="web-api" />
+                    <option name="lastUsedInstant" value="1689190230" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1689190229" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="2STnMSg2wUXpYiHlf34bkD8eZLX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,6 +78,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689179393156</updated>
-      <workItem from="1689179394374" duration="3291000" />
+      <workItem from="1689179394374" duration="4876000" />
     </task>
     <servers />
   </component>

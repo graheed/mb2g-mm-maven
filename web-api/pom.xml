@@ -9,12 +9,16 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.raheed</groupId>
+
     <artifactId>web-api</artifactId>
+
+    <packaging>jar</packaging>
 
     <properties>
         <jaxb.version>2.3.0</jaxb.version>
     </properties>
+
+
 
     <dependencies>
         <dependency>
