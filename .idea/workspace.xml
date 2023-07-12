@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51ff080-ee3b-4662-9ba0-e8b41949c277" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijArtifact/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijArtifact/src/main/java/org/raheed/HelloFromJetbrains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijArtifact/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijArtifact/src/test/java/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-entities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-entities/src/main/java/org/raheed/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e51ff080-ee3b-4662-9ba0-e8b41949c277" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +39,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689179393156</updated>
-      <workItem from="1689179394374" duration="1902000" />
+      <workItem from="1689179394374" duration="2182000" />
     </task>
     <servers />
   </component>
