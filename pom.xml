@@ -19,6 +19,7 @@
     <modules>
         <module>jpa-entities</module>
         <module>intellijArtifact</module>
+        <module>web-api</module>
     </modules>
 
     <dependencies>
